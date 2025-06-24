@@ -1,0 +1,10 @@
+---
+title: "Quarto1"
+format: html
+---
+
+
+```{r}
+library(tidyverse)
+read_csv("nyc_tracts.csv")
+```
